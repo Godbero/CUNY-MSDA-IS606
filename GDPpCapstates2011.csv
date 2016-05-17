@@ -1,0 +1,69 @@
+Per capita real GDP by state (chained 2009 dollars),,,
+Levels ,,,
+Bureau of Economic Analysis ,,,
+All industry total,,,
+Fips,Area,2011,Rank
+0,United States,47586,--
+11000,District of Columbia,167689,--
+2000,Alaska,68707,1
+56000,Wyoming,66080,2
+9000,Connecticut,63311,3
+10000,Delaware,62903,4
+36000,New York,61188,5
+25000,Massachusetts,61127,6
+38000,North Dakota,55387,7
+34000,New Jersey,54913,8
+24000,Maryland,53940,9
+53000,Washington,52860,10
+51000,Virginia,52094,11
+6000,California,52022,12
+27000,Minnesota,51344,13
+41000,Oregon,51243,14
+17000,Illinois,51203,15
+31000,Nebraska,51099,16
+8000,Colorado,50007,17
+15000,Hawaii,49117,18
+48000,Texas,48604,19
+46000,South Dakota,48239,20
+33000,New Hampshire,47797,21
+19000,Iowa,46696,22
+22000,Louisiana,46489,23
+44000,Rhode Island,46220,24
+42000,Pennsylvania,46043,25
+20000,Kansas,45463,26
+55000,Wisconsin,45061,27
+32000,Nevada,43891,28
+37000,North Carolina,43699,29
+39000,Ohio,43627,30
+50000,Vermont,43013,31
+18000,Indiana,42962,32
+49000,Utah,42229,33
+13000,Georgia,41889,34
+29000,Missouri,41674,35
+47000,Tennessee,40306,36
+26000,Michigan,39715,37
+40000,Oklahoma,39577,38
+35000,New Mexico,39117,39
+4000,Arizona,38595,40
+21000,Kentucky,37986,41
+23000,Maine,37860,42
+30000,Montana,37680,43
+12000,Florida,37627,44
+1000,Alabama,36499,45
+5000,Arkansas,35947,46
+45000,South Carolina,35801,47
+54000,West Virginia,35633,48
+16000,Idaho,34474,49
+28000,Mississippi,31227,50
+92000,Mideast,56585,1
+91000,New England,56468,2
+98000,Far West,51806,3
+94000,Plains,47019,4
+97000,Rocky Mountain,45522,5
+96000,Southwest,45486,6
+93000,Great Lakes,44973,7
+95000,Southeast,40589,8
+Legend / Footnotes:,,,
+Note-- NAICS Industry detail is based on the 2007 North American Industry Classification System (NAICS).,,,
+Note-- Per capita real GDP statistics for 1997-2014 reflect Census Bureau midyear population estimates available as of December 2014.,,,
+"Last updated: December 10, 2015 - revised statistics for 2007-2014 (estimates in current dollars); 1997-2014 (estimates in chained [2009] dollars)",,,
